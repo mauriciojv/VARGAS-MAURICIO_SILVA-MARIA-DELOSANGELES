@@ -1,0 +1,177 @@
+[2023-05-25 12:57:12] [ INFO ] [Transaccion:47] Lu - Saldo $50015.0
+[2023-05-25 21:30:57] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al odontologoNombre: mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 21:31:29] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al odontologoNombre: Mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 21:32:45] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 21:37:32] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 21:38:54] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 21:40:24] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 21:43:40] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 21:49:04] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 21:49:04] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 21:49:15] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 21:49:15] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 21:49:30] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 21:49:30] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 21:52:21] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 21:52:21] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 21:59:03] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 21:59:03] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:00:25] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:00:25] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:01:43] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:01:43] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:02:08] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:02:08] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:02:24] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:02:24] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:03:11] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:03:11] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:04:04] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:04:04] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:04:04] [ ERROR] [OdontologoDaoH2:82] Table "CLINICA" not found (this database is empty); SQL statement:
+SELECT * FROM CLINICA [42104-214]
+[2023-05-25 22:04:17] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:04:17] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:05:15] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:05:15] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:07:03] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:07:03] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:07:18] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:07:18] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:07:33] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:07:33] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:07:43] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:07:43] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:08:17] [ ERROR] [OdontologoDaoH2:82] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:08:17] [ ERROR] [OdontologoDaoH2:89] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:41] La base de datos puede que ya esté siendo utilizada: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: "C:/Users/mauricio.vargas/pruebaBackend.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-214]
+[2023-05-25 22:13:39] [ ERROR] [OdontologoDaoH2:57] Ha ocurrido un error al intentar cerrar la base de datos. Cannot invoke "java.sql.Connection.close()" because "connection" is null
+[2023-05-25 22:14:17] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:14:17] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:14:17] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:16:07] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 22:16:19] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:18:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:18:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:18:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:18:16] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:19:27] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:19:27] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:19:27] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:19:27] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:21:18] [ ERROR] [OdontologoDaoH2:82] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:24:59] [ ERROR] [OdontologoDaoH2:84] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:25:26] [ ERROR] [OdontologoDaoH2:84] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:29:03] [ ERROR] [OdontologoDaoH2:84] Columna "Matricula" no encontrada
+Column "Matricula" not found [42122-214]
+[2023-05-25 22:30:19] [ ERROR] [OdontologoDaoH2:84] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 22:35:45] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:35:45] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:35:45] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:35:45] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[]
+[2023-05-25 22:39:04] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:39:04] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:39:04] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:39:04] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:39:04] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:39:04] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:39:04] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:39:04] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:39:04] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 22:40:13] [ ERROR] [OdontologoDaoH2:41] Table "CLINICA" not found (this database is empty); SQL statement:
+INSERT INTO CLINICA (NOMBRE, APELLIDO, NUMERO_MATRICULA) VALUES(?, ?, ?) [42104-214]
+[2023-05-25 22:40:13] [ ERROR] [OdontologoDaoH2:46] Tuvimos un problema
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:42:16] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 22:42:53] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 22:46:05] [ ERROR] [OdontologoDaoH2:84] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 22:46:40] [ ERROR] [OdontologoDaoH2:84] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 22:48:03] [ ERROR] [OdontologoDaoH2:84] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 22:52:49] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 22:55:25] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:55:25] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:55:26] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:55:26] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 22:55:26] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 22:55:26] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 22:55:26] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 22:56:54] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Mauricio - Apellido: vargas - Matricula Número : 55555
+[2023-05-25 22:57:22] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 23:00:15] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 23:01:28] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 23:02:01] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 23:02:01] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 23:02:01] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 23:02:02] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 23:02:02] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 23:02:02] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 23:02:02] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 23:02:02] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 23:04:13] [ ERROR] [OdontologoDaoH2:83] Columna "matricula" no encontrada
+Column "matricula" not found [42122-214]
+[2023-05-25 23:05:36] [ INFO ] [OdontologoDaoH2:80] Listado de todos los odontologos :[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 23:05:57] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoH2:37] Se ha registrado al nuevo miembro: Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoH2:80] Listado de todos los odontologos :[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Javier - Apellido: Duque - Matricula Número : 304504
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Ana - Apellido: Perez - Matricula Número : 3045505
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoEnMemoria:19] Nuevo miembro guardado : Nombre: Maria - Apellido: Silva - Matricula Número : 30544478
+[2023-05-25 23:05:58] [ INFO ] [OdontologoDaoEnMemoria:25] Listado de todos los odontologos: 
+[Nombre: Javier - Apellido: Duque - Matricula Número : 304504, Nombre: Ana - Apellido: Perez - Matricula Número : 3045505, Nombre: Maria - Apellido: Silva - Matricula Número : 30544478]
